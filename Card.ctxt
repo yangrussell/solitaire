@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=initRank\ initSuit
+comment0.target=Card(int,\ java.lang.String)
+comment0.text=\r\n\ Constructor\ with\ parameters;\ initializes\ instance\ variables.\r\n\ @param\ initRank\ an\ initial\ rank\ of\ a\ card\r\n\ @param\ initSuit\ an\ initial\ suit\ of\ a\ card\r\n
+comment1.params=
+comment1.target=int\ getRank()
+comment1.text=\r\n\ Gets\ the\ rank\ of\ the\ card.\r\n\ @postcondition\ the\ rank\ of\ the\ card\ is\ returned.\r\n\ @return\ the\ rank\ of\ the\ card.\r\n
+comment2.params=
+comment2.target=java.lang.String\ getSuit()
+comment2.text=\r\n\ Gets\ the\ suit\ of\ the\ card.\r\n\ @postcondition\ the\ suit\ of\ the\ card\ is\ returned.\r\n\ @return\ the\ suit\ of\ the\ card.\r\n
+comment3.params=
+comment3.target=boolean\ isRed()
+comment3.text=\r\n\ Checks\ whether\ the\ card\ is\ red.\r\n\ @postcondition\ true\ is\ returned\ if\ the\ card\ is\ a\ diamond\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ or\ heart\ (red\ cards),\ false\ otherwise\r\n\ @return\ true\ if\ the\ card\ is\ red,\ false\ otherwise.\r\n
+comment4.params=
+comment4.target=boolean\ isFaceUp()
+comment4.text=\r\n\ Checks\ if\ the\ card\ is\ face\ up.\r\n\ @postcondition\ true\ is\ returned\ if\ the\ card\ is\ face\ up,\ false\ otherwise.\r\n\ @return\ true\ if\ the\ card\ is\ face\ up,\ false\ otherwise.\r\n
+comment5.params=
+comment5.target=void\ turnUp()
+comment5.text=\r\n\ Turns\ the\ card\ to\ face\ up.\r\n\ @postcondition\ isFaceUp\ is\ set\ to\ true.\r\n
+comment6.params=
+comment6.target=void\ turnDown()
+comment6.text=\r\n\ Turns\ the\ card\ to\ face\ down.\r\n\ @postcondition\ isFaceUp\ is\ set\ to\ false.\r\n
+comment7.params=
+comment7.target=java.lang.String\ getFileName()
+comment7.text=\r\n\ Gets\ the\ file\ name\ of\ a\ card.\r\n\ @postcondition\ the\ file\ name\ of\ a\ card\ is\ returned.\r\n\ @return\ the\ file\ name\ of\ the\ card.\r\n
+numComments=8
