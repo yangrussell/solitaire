@@ -1,5 +1,5 @@
 # solitaire
-🃏 Implementation of solitaire in Java
+Implementation of solitaire in Java
 
 # About
 Created in AP Computer Science with Data Structures taught by Ms. Datar
