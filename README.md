@@ -2,7 +2,7 @@
 Implementation of solitaire in Java
 
 # About
-Created in AP Computer Science with Data Structures taught by Ms. Datar
+This game was created during my AP Computer Science with Data Structures class taught by Ms. Datar.
 
 # Usage
 1. Download files and open in an IDE
